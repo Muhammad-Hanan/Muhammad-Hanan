@@ -1,6 +1,6 @@
 ![logo](https://github.com/Muhammad-Hanan/Muhammad-Hanan/blob/main/Yellow%20White%20%20Modern%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Muhammad+Hanan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Abdul+Hanan;" />
 </h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
